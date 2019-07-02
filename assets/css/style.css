@@ -271,7 +271,7 @@ form {
 	height: 210px;
 	width: 190px;
 	vertical-align: center;
-	margin: 110px 10px 10px 25px;
+	margin: 60px 10px 10px 25px;
 	border-radius: 10px;
 }
 
@@ -343,6 +343,14 @@ h3 {
 	border: groove 4px #6C464E;
 	/*z-index: 4;*/
 }
+
+#sidebar {
+	background-color: #f2f2f2;
+	height: 100%;
+	width: 200px;
+	position: fixed;
+}
+
 
 
 
